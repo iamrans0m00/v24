@@ -1,0 +1,6 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+*.bkp
+*.csv
